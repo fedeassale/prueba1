@@ -49,6 +49,7 @@ article:hover {
 article p {
     text-align: center;
     margin: 0;
+ padding-left: 3em;
 }
 
 footer {
